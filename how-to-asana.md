@@ -5,8 +5,8 @@
 Asana is out main daily driver. We use asana to propose new ideas, work on tasks together, deligate work, ask questions and share results.
 We have multiple board and list there, but those 3 are the most impotrant:
 1. [Incoming list](https://app.asana.com/0/674910229196621/list): This list is for everything new, exciting, unclear and uncertain. If something is not actionable or with unclear priority it also should live here. 
-2. [Backlog board](https://app.asana.com/0/220510979115927/board)
-3. [Bugs board](https://app.asana.com/0/341358866037484/board)
+2. [Backlog board](https://app.asana.com/0/220510979115927/board): Main design work pipeline. This is where everything happens before it hits Devs Team.
+3. [Bugs board](https://app.asana.com/0/341358866037484/board): This one needs no explanation.
 
 ## Description
 
