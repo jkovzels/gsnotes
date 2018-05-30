@@ -8,7 +8,7 @@ We have multiple board and list there, but those 3 are the most impotrant:
 2. [Backlog board](https://app.asana.com/0/220510979115927/board): Main design work pipeline. This is where everything happens before it hits Devs Team.
 3. [Bugs board](https://app.asana.com/0/341358866037484/board): This one needs no explanation.
 
-## Description
+## Task Description
 
 Description of the task is **the single source of truth** about the task. At any given time description should state latest decisions about the task. Description is, in fact, "latest decisions". If something isn't in description it does not exist.
 
@@ -29,3 +29,4 @@ Task template should contain the following:
 3. Design: [link to figma board]
 4. Copywriting: For the most part we will have copy in figma or Doggle doc.
 5. Done when: Definition of done.
+6. Related: links to related materials and tasks.
