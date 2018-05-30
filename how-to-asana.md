@@ -30,3 +30,13 @@ Task template should contain the following:
 4. Copywriting: For the most part we will have copy in figma or Doggle doc.
 5. Done when: Definition of done.
 6. Related: links to related materials and tasks.
+
+
+# Tags
+
+Tags are usefull tool to give structure, group and clssify tasks. Some discipline required around tags to make them useful. 
+
+Keep tags names short, avoid punctualtion and symbols not easily available on keyboard. Keep them lower case. Tags should be easy to type. 
+
+When using existing tag, make sure that you know it's original meaning and boundaries. For example work 'workout' can mean multiple things in our context: workout as activity or workout the app.
+Read meaning on existing tags [here](/task-tags-definitions.md)
