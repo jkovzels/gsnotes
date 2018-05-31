@@ -1,6 +1,12 @@
 
 # Techniques
 
+## Tasks
+
+Task is a unit of work with clear path to implementation and definition of done. Task should bring value end users of the product. Is some cases task can bring value to internal users or businees as a whole. Ideally each task should be small enought to get it done in one week.
+
+*Extent on Dev tasks, design tasks, investigations tasks.*
+
 ## Themes
 
 Theme is a promise to solve a problem, not to build a feature. It is intentionally one step removed from something doable. 
