@@ -34,7 +34,7 @@ Task template should contain the following:
 
 # Tags
 
-Tags are usefull tool to give structure, group and clssify tasks. Some discipline required around tags to make them useful. 
+Tags are usefull tool to give structure, group and classify tasks. Some discipline required to make tags useful. 
 
 Keep tags names short, avoid punctualtion and symbols not easily available on keyboard. Keep them lower case. Tags should be easy to type. 
 
