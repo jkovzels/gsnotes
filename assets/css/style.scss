@@ -7,8 +7,9 @@ body{
   color: #222222;
 }
 
-a:hover{
-  font-weight: inherit;
+a:hover, a:focus{
+  font-weight: normal;
+  color: inherit;
 }
 
 section {
