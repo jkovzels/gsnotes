@@ -24,6 +24,8 @@ OKRs themselves.
 Tasks related to [95% of new clients have body stats already entered by themselves](https://app.asana.com/0/699406605087296/690826238214046)
 
 
+<a class="tag asana-red" href="
+https://app.asana.com/0/699406605087296/690826238214047" target="_blank">95bodystats-coach</a>
 
 *Enjoy responbibly.*
 
