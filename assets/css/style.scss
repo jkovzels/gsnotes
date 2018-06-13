@@ -29,22 +29,32 @@ section {
 }
 
 .tag{
+  color: white;
   border-radius: 4px;
   padding: 2px 4px;
 }
+
 .asana-purple{
-  color: white;
   background-color: #aa62e3;
 }
 
-
 .asana-red{
-  color: white;
   background-color: #e8384f;
 }
 
+.asana-orange {
+  background-color: #fd612c;
+}
+
+.asana-yellow-orange {
+  background-color: #fd9a00;
+}
+
 .asana-yellow-green{
-  color: white;
   background-color: #a4cf30;
+}
+
+.asana-yellow {
+  background-color: #eec300;
 }
 
