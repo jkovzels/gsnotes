@@ -14,4 +14,3 @@ Bug with large portion exposed users preventing users to do something they expec
 <a class="tag asana-yellow" href=" https://app.asana.com/0/707149680137766/list" target="_blank">low-bug</a>
 Something wrong, but does not cause frustration.
 
-
