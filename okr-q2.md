@@ -25,7 +25,7 @@ Complete list of Q2 related Key Result tags by Objective:
 
 <a class="tag asana-red" href="https://app.asana.com/0/707281306773032/list" target="_blank">no-software-data-lose</a>
 
-<a class="tag asana-red" href="https://app.asana.com/0/700977806748468/list" target="_blank">good-sensors</a
+<a class="tag asana-red" href="https://app.asana.com/0/700977806748468/list" target="_blank">good-sensors</a>
 
 
 ## Bring "Retention" & Acquisition KPI's into Google Analytics
