@@ -16,6 +16,10 @@ Description usually should be structured around one of the templates. At this po
 
 Bug template should contain the following:
 
+## Asana comments
+
+Ignore comments (if you are developer)
+
 1. Reporter:
 2. Date:
 3. Reproducation steps:

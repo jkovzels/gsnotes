@@ -1,6 +1,6 @@
 # OKRs. Q2.
 
-We set, track and achive OKRs in Asana, because [Asana is our daily driver](/how-to-asana.md) and we are not in the business of producing PowerPoint Presentations. We tag tasks with tags instead.
+We set, track and achive OKRs in Asana, because [Asana is our daily driver](/how-to-asana.md) and we are not in the business of producing PowerPoint Presentations. We mark tasks with tags instead.
 
 
 Everything related to quarter, objectives, key results, and tasks is tagged with <a class="tag asana-red" href="https://app.asana.com/0/688882032553083/list" target="_blank">okr-q2</a>
