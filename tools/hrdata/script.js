@@ -39,7 +39,7 @@
         var expectedTime = new Date(ts * 1000);
         for(var i = 0; i < tdiff; i++){
             var reading = dict[expectedTime * 1];
-            var line = expectedTime.getHours() + "\t" + expectedTime.getMinutes() + '\t' + expectedTime.getSeconds() + '\t' 
+            var line = ("00" + expectedTime.getHours()).substr(-2,2)   + ":" + ("00" + expectedTime.getMinutes()).substr(-2,2) + ':' + ("00" + expectedTime.getSeconds()).substr(-2,2) + '\t' 
                 + (reading ? reading.rate : "");
                 //+ '\t' + (reading ? reading.dataJam : false);
             
