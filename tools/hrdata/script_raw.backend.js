@@ -21,7 +21,7 @@
             return;
         }
 
-        data = data.measurements.byId;
+        
 
         var tmin = Number.MAX_VALUE;
         var tmax = Number.MIN_VALUE;
@@ -29,26 +29,23 @@
         const delim = '\t';
         var header = "time";
         var readings = {};
-        for (const key in data) {
-            if (!data.hasOwnProperty(key)) {
-                continue;
-            }
-            const arr = data[key].readings;
+        data = data.data;
+        for (var i = 0; i < data.length; i++) {
+            const arr = data[i].hr_measurement.data;
             if(arr.length == 0){
                 continue;
             }
-
-            header += delim + data[key].userId;
+            header += delim + data[i].id;
             
             tmin = Math.min(tmin, Math.round(new Date(arr[0].time) / 1000));
             tmax = Math.max(tmax, Math.round(new Date(arr[arr.length - 1].time) / 1000));
             
             const stamps = {};
-            for(var i = 0; i < arr.length; i++){
-                var stamp = (Math.round(new Date(arr[i].time) / 1000));
-                stamps[stamp] = {rate: arr[i].rate, dataJam: stamps[stamp] ? true : false, stamp: stamp };
+            for(var k = 0; k < arr.length; k++){
+                var stamp = (Math.round(new Date(arr[k].time) / 1000));
+                stamps[stamp] = {rate: arr[k].rate, dataJam: stamps[stamp] ? true : false, stamp: stamp };
             }
-            readings[key] = stamps;
+            readings[data[i].id] = stamps;
         }
 
         var result = header;
